@@ -1,6 +1,8 @@
 ############################################################### 
 ##########             RNA-seq-pipelines           ############
 ###############################################################
+### Author Ewan Xiong
+### 2021-07-22
 
 ### snakemake pipeline workflow
 1. conda activate/create env with python = 3*
